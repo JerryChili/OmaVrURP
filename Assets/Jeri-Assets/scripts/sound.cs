@@ -16,7 +16,7 @@ public class sound : MonoBehaviour
 
     public void OnCollisionEnter(Collision col)
     {
-        audioSource.PlayOneShot(impact, GetComponent<Rigidbody>().velocity.magnitude);
+        audioSource.PlayOneShot(impact, (GetComponent<Rigidbody>().velocity.magnitude));
     }
 
     // Update is called once per frame
