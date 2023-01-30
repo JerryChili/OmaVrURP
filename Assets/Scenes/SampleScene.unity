@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17279452, g: 0.21592838, b: 0.29786783, a: 1}
+  m_IndirectSpecularColor: {r: 0.17279488, g: 0.21592896, b: 0.29786897, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1576,8 +1576,20 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 56.650646, y: 5.052817, z: 40.695374}
-  m_Center: {x: 0.16729772, y: -33.09096, z: -22.498484}
+  m_Size: {x: 52.606434, y: 5.052817, z: 38.0762}
+  m_Center: {x: 0.78001255, y: -33.09096, z: -24.114582}
+--- !u!114 &955918179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 955918168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7051721d8c7f46149a2962163ed6d9dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1027758291
 GameObject:
   m_ObjectHideFlags: 0
@@ -2079,7 +2091,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 56.650646, y: 5.052817, z: 40.695374}
+  m_Size: {x: 52.60643, y: 5.052817, z: 38.0762}
   m_Center: {x: 0.16729772, y: -33.09096, z: -22.498484}
 --- !u!65 &1611422628
 BoxCollider:
@@ -2120,6 +2132,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 4, y: 20, z: 50}
   m_Center: {x: -30, y: -37.15287, z: -24}
+--- !u!114 &1611422637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1611422624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab9fc3a26714d294381d050028e7586c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!65 &1777846062
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2563,7 +2587,7 @@ PrefabInstance:
     - target: {fileID: 2830730661649534845, guid: 5d3836f2c49f82e4bb08edb71c0b6d85,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.421
+      value: 5.623
       objectReference: {fileID: 0}
     - target: {fileID: 2830730661649534845, guid: 5d3836f2c49f82e4bb08edb71c0b6d85,
         type: 3}
