@@ -2032,6 +2032,11 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -3033794102924925750, guid: 8bde4849aa2fa3e48a64d11602bb878b,
+        type: 3}
+      propertyPath: m_Name
+      value: structure 2
+      objectReference: {fileID: 0}
     - target: {fileID: -2707268459014408561, guid: 8bde4849aa2fa3e48a64d11602bb878b,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2046,6 +2051,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: basketball_hoop 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5671067988210932658, guid: 8bde4849aa2fa3e48a64d11602bb878b,
+        type: 3}
+      propertyPath: m_Name
+      value: backboard rim 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783217659242816728, guid: 8bde4849aa2fa3e48a64d11602bb878b,
+        type: 3}
+      propertyPath: m_Name
+      value: backboard2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bde4849aa2fa3e48a64d11602bb878b, type: 3}
@@ -2530,6 +2545,11 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -3033794102924925750, guid: 8bde4849aa2fa3e48a64d11602bb878b,
+        type: 3}
+      propertyPath: m_Name
+      value: structure
+      objectReference: {fileID: 0}
     - target: {fileID: -2707268459014408561, guid: 8bde4849aa2fa3e48a64d11602bb878b,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2544,6 +2564,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: basketball_hoop
+      objectReference: {fileID: 0}
+    - target: {fileID: 5671067988210932658, guid: 8bde4849aa2fa3e48a64d11602bb878b,
+        type: 3}
+      propertyPath: m_Name
+      value: backboard rim
+      objectReference: {fileID: 0}
+    - target: {fileID: 6783217659242816728, guid: 8bde4849aa2fa3e48a64d11602bb878b,
+        type: 3}
+      propertyPath: m_Name
+      value: backboard
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8bde4849aa2fa3e48a64d11602bb878b, type: 3}
